@@ -1,0 +1,2 @@
+# ProjLoja
+Projeto python faculdade
